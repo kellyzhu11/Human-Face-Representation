@@ -1,4 +1,4 @@
-# Human-Face-Reprsentation-Using-PCA-and-Autoencoder
+# Human Face Representation Using PCA and Autoencoder
 This project was part of my work for UCLA STATS M231/CS276 (Pattern Recognition and Machine Learning) during fall 2018. The purpose of this project is to compare two types of human face representations in the context of dimension reduction: PCA and Autoencoder. Active Appearance Model (AAM) is applied to represent and reconstruct faces.
 
 ## Dataset
