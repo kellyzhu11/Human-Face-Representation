@@ -7,7 +7,9 @@ The CelebA dataset contains 1000 face images cropped to 128 × 128 pixels by the
 ## Usage
 ### Clone the repositories
  
- `git clone https://github.com/kellyzhu11/Human-Face-Representation.git`
+ ```bash
+ git clone https://github.com/kellyzhu11/Human-Face-Representation.git
+ ```
  
 ### Get Face Representations by PCA
 run pca.ipynb
